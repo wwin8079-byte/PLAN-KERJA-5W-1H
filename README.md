@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Plan Kerja 5W1H</title>
+<title>PLAN KERJA 5W+1H</title>
 <style>
 :root{--bg:#f4f5f2;--card:#fff;--ink:#1c2420;--mut:#66726b;--line:#dde2dc;--acc:#1f7a4d;--acc2:#e8f3ec;--warn:#b4531a;--warnbg:#fdf0e6;--bad:#b3261e}
 @media(prefers-color-scheme:dark){:root{--bg:#141815;--card:#1d231f;--ink:#e8ede9;--mut:#93a097;--line:#2f3832;--acc:#4cc38a;--acc2:#1f3328;--warn:#f0a068;--warnbg:#3a2a1d;--bad:#ff8a80}}
