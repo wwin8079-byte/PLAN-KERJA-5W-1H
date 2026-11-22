@@ -76,7 +76,7 @@ button:disabled{opacity:.45;cursor:not-allowed}
 </head>
 <body>
 <div class="wrap">
-  <h1>📋 Plan Kerja → 5W1H</h1>
+  <h1>📋 PLAN KERJA → 5W+1H</h1>
   <p class="sub">Tempel pesan WA → cek yang kurang jelas → salin → kirim ke grup.</p>
 
   <div class="card">
